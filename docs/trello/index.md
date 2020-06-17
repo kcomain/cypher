@@ -1,41 +1,7 @@
 hero: Custom module for easy access to the Trello API
-# Trello
 
-Lorem ipsum filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
-filler text filler text filler text filler text filler text filler text filler text filler text filler text 
+# Trello
+This tab documents the usage and examples utilizing the `Trello` class.
+
+## Synopsis
+Work in progress.

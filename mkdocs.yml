@@ -8,6 +8,8 @@ theme:
     scheme: preference
     primary: blue
     accent: deep purple
+  logo: images/cypherlogo.svg
+  favicon: images/cypher-spin.gif
 
 extra:
   social:
@@ -17,6 +19,8 @@ extra:
       link: https://twitter.com/CypherDiscord
     - icon: fontawesome/brands/discord
       link: https://discord.gg/tF7WVSs
+    - icon: octicons/law
+      link: https://raw.githubusercontent.com/kcomain/cypher/master/LICENSE
 
 copyright: Copyright &copy <a href="https://github.com/CypherBot">Cypher Developers</a> 2020
 
