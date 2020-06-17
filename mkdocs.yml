@@ -1,0 +1,37 @@
+site_name: Cypher Developers Internal Docs
+theme:
+  name: material
+  features:
+    - instant
+    - tabs
+  palette:
+    scheme: preference
+    primary: blue
+    accent: deep purple
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/CypherBot
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/CypherDiscord
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/tF7WVSs
+
+copyright: Copyright &copy <a href="https://github.com/CypherBot">Cypher Developers</a> 2020
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+#  - git-revision-date-localized:  # Disabled: bugged.
+#      type: timeago
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+
+repo_name: kcomain/cypher
+repo_url: https://github.com/kcomain/cypher
