@@ -3,5 +3,3 @@ hero: Welcome to the internal docs!
 
 Welcome to our developer reference page. This site will be entirely made for Cypher developers, 
 but you're welcome to take a look.
-
-yeah kekw
