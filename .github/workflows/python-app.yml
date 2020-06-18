@@ -28,5 +28,5 @@ jobs:
         
     - name: Build docs
       run: |
-        mkdocs build -v
-        mkdocs gh-deploy
+        pipenv run mkdocs build -v
+        pipenv run mkdocs gh-deploy
