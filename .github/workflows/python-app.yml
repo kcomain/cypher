@@ -26,7 +26,7 @@ jobs:
         pip install pipenv
         pipenv sync
         
-    - name: Build docs
+    - name: Build docs and attempt deploy
       run: |
         pipenv run mkdocs build -v
-        pipenv run mkdocs gh-deploy
+        pipenv run mkdocs gh-deploy --force
