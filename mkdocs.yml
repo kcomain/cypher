@@ -7,7 +7,7 @@ theme:
   palette:
     scheme: preference
     primary: blue
-    accent: deep purple
+    accent: cyan
   logo: images/cypherlogo.svg
   favicon: images/cypher-spin.gif
 
@@ -27,8 +27,6 @@ copyright: Copyright &copy <a href="https://github.com/CypherBot">Cypher Develop
 markdown_extensions:
   - admonition
   - pymdownx.details
-#  - git-revision-date-localized:  # Disabled: bugged.
-#      type: timeago
   - codehilite:
       guess_lang: false
   - toc:
@@ -36,6 +34,14 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:pymdownx.emoji.twemoji
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed
+
+plugins:
+#  - git-revision-date-localized:
+#      type: timeago
+  - search
 
 repo_name: kcomain/cypher
 repo_url: https://github.com/kcomain/cypher
