@@ -1,7 +1,7 @@
 # Mongo class examples
 
 1. Lorem
-    #!/usr/bin/python3
+    :::python
     import this
     print(this)
 
