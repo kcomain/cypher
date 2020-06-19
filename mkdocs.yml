@@ -6,7 +6,7 @@ theme:
     - tabs
   palette:
     scheme: preference
-    primary: blue
+    primary: black
     accent: deep purple
   logo: images/cypherlogo.svg
   favicon: images/cypher-spin.gif
