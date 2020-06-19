@@ -31,6 +31,7 @@ markdown_extensions:
 #      type: timeago
   - codehilite:
       guess_lang: false
+      linenums: true
   - toc:
       permalink: true
   - pymdownx.emoji:
